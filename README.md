@@ -53,6 +53,10 @@ If SSH keys are valid, it stores your private SSH key as an environment variable
 
 <br>
 
+## Logging into the Drupal UI Instance.
+
+1. Your username/password would be admin/admin.
+
 ## Notes
 
 * Manual SSH setup is a temporary requirement until the Drupal's self-hosted Gitlab gets integrated with Gitpod.
