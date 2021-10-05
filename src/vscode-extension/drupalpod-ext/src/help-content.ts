@@ -68,6 +68,10 @@ body {
               </ul>
             </li>
           </ol>
+          <ol class="list--ordered">
+            <li>To log in to Drupal: Use username/password = admin/admin
+          </ol>
+           
         </section>
 
         <section>
